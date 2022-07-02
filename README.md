@@ -1,1 +1,1 @@
-# string_methods
+# string_all_methods
